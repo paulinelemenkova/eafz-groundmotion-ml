@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+# figure outputs
+*.png
+*.pdf
+# GMT / scratch intermediates
+*.nc
+gmt.history
+gmt.conf
+faults.txt
+cities.txt
+epi.txt
+quakes.txt
+leaders.txt
+lbl.txt
+meca_tmp.txt
+*.cpt
+# Python
+__pycache__/
+*.pyc
+.venv/
