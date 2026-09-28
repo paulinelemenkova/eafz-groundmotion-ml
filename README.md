@@ -90,4 +90,4 @@ Released under the MIT License (see `LICENSE`).
 ## Citation
 
 If you use this code, please cite the accompanying article
-(Lemenkova & Zülfikar, in review).
+(Lemenkova, in review).
